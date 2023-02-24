@@ -29,6 +29,7 @@
     packages = with pkgs; [];
     openssh.authorizedKeys.keys = [
       "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHe7SO2hNJi76umGXWTzswFnzEd4rrJYr69UBulKlLC8 cmltawt0@m1"
+      "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPRj0Q9uFnIZ8Q48DrNT9LyIqfEMKlZv+0JLy8AWWDtz nixos-ws"
     ];
   };
 
